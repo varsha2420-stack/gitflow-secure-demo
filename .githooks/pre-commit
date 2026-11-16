@@ -1,1 +1,4 @@
 
+#!/bin/sh
+python scripts/secret_scan.py
+
